@@ -23,6 +23,9 @@ public class Lesson3 {
         Node n2 = new Node();
         n2.setIsim("N2");
 
+
+
+
         Node n3 = new Node();
         n3.setIsim("N3");
 
